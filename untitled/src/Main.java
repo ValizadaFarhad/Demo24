@@ -6,4 +6,7 @@ public class Main {
     public static void foo (){
         System.out.println("a");
     }
+    public static void foo2 (){
+        System.out.println("a");
+    }
 }
